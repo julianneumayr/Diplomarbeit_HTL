@@ -1,8 +1,9 @@
 {
     "730002_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V",
-        "tool": "tool1",
+        "Name": "LED CWL 500 4000LM/D-I/840 230V",
+        "Tool": "tool1",
         "DC": "Nein",
+        "Notstrom": "Nein",
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Nein"
