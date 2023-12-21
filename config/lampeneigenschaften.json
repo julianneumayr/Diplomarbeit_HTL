@@ -9,119 +9,235 @@
         "Bewegungsmelder": "Nein"
     },
     "730012_00": {
-        "name": "LED CWL 500x500 4000LM/D-I/840 230V",
-        "tool": "tool1"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V EMY",
+        "Tool": "tool1",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Nein"
     },
     "730013_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V EMY MS",
-        "tool": "tool1"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V EMY MS",
+        "Tool": "tool1",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Ja"
     },
     "730014_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V MS",
-        "tool": "tool1"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V MS",
+        "Tool": "tool1",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Ja"
     },
     "730015_00": {
-        "name": "LED CWL 500x500 4000LM/D-I/840 230V",
-        "tool": "tool1"
+        "Name": "LED CWL 500x500 4000LM/D-I/840 230V",
+        "Tool": "tool1",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Nein"
     },
     "730019_00": {
-        "name": "LED CWL 500x500 4000LM/D-I/840 230V EMY",
-        "tool": "tool1"
+        "Name": "LED CWL 500x500 4000LM/D-I/840 230V EMY",
+        "Tool": "tool1",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Nein"
     },
     "730021_00": {
-        "name": "LED CWL 500x500 4000LM/D-I/840 230V EMY MS",
-        "tool": "tool1"
+        "Name": "LED CWL 500x500 4000LM/D-I/840 230V EMY MS",
+        "Tool": "tool1",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Ja"
     },
     "730029_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V AC/DC-L GAZ MS",
-        "tool": "tool1"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC-L GAZ MS",
+        "Tool": "tool1",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Ja"
     },
     "730003_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V AC/DC",
-        "tool": "tool2"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC",
+        "Tool": "tool2",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Nein"
     },
     "730005_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V AC/DC CEAG",
-        "tool": "tool2"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC CEAG",
+        "Tool": "tool2",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Nein"
     },
     "730010_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V AC/DC MS",
-        "tool": "tool2"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC MS",
+        "Tool": "tool2",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Ja"
     },
     "730011_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V AC/DC DALI",
-        "tool": "tool2"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC DALI",
+        "Tool": "tool2",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Nein"
     },
     "730020_00": {
-        "name": "LED CWL 500x500 4000LM/D-I/840 230V EMY GAZ MS",
-        "tool": "tool2"
+        "Name": "LED CWL 500x500 4000LM/D-I/840 230V EMY GAZ MS",
+        "Tool": "tool2",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Ja"
     },
     "730023_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V AC/DC CEAG MS",
-        "tool": "tool2"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC CEAG MS",
+        "Tool": "tool2",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Ja"
     },
     "730024_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V AC/DC INOTEC FMD",
-        "tool": "tool2"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC INOTEC FMD",
+        "Tool": "tool2",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Nein"
     },
     "730025_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V AC/DC INOTEC FMD MS",
-        "tool": "tool2"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC INOTEC FMD MS",
+        "Tool": "tool2",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Ja"
     },
     "730026_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V AC/DC INOTEC JSV",
-        "tool": "tool2"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC INOTEC JSV",
+        "Tool": "tool2",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Nein"
     },
     "730027_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V AC/DC INOTEC JSV MS",
-        "tool": "tool2"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC INOTEC JSV MS",
+        "Tool": "tool2",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Ja"
     },
     "730045_00": {
-        "name": "LED Comfort 500 4000LM/D-I/840 230V EMY Gessler ESM02 MS",
-        "tool": "tool2"
+        "Name": "LED Comfort 500 4000LM/D-I/840 230V EMY Gessler ESM02 MS",
+        "Tool": "tool2",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Ja",
+        "Bewegungsmelder": "Ja"
     },
     "730028_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V AC/DC-L GAZ",
-        "tool": "tool3"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC-L GAZ",
+        "Tool": "tool3",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Nein"
     },
     "730030_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V AC/DC-S GAZ",
-        "tool": "tool3"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC-S GAZ",
+        "Tool": "tool3",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Nein"
     },
     "730031_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V AC/DC-S GAZ MS",
-        "tool": "tool3"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC-S GAZ MS",
+        "Tool": "tool3",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Ja"
     },
     "730032_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V EMY CEAG",
-        "tool": "tool3"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V EMY CEAG",
+        "Tool": "tool3",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Nein"
     },
     "730033_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V EMY CEAG MS",
-        "tool": "tool3"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V EMY CEAG MS",
+        "Tool": "tool3",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Ja"
     },
     "730034_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V EMY GAZ",
-        "tool": "tool4"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V EMY GAZ",
+        "Tool": "tool4",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Ja",
+        "Bewegungsmelder": "Nein"
     },
     "730035_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V EMY GAZ MS",
-        "tool": "tool4"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V EMY GAZ MS",
+        "Tool": "tool4",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Ja",
+        "Bewegungsmelder": "Ja"
     },
     "730038_00": {
-        "name": "LED CWL 500x500 4000LM/D-I/840 230V EMY GAZ",
-        "tool": "tool4"
+        "Name": "LED CWL 500x500 4000LM/D-I/840 230V EMY GAZ",
+        "Tool": "tool4",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Ja",
+        "Bewegungsmelder": "Nein"
     },
     "730048_00": {
-        "name": "LED Comfort 500 4000LM/D-I/840 230V EMY Gessler ESM02",
-        "tool": "tool4"
+        "Name": "LED Comfort 500 4000LM/D-I/840 230V EMY Gessler ESM02",
+        "Tool": "tool4",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Nein",
+        "Bewegungsmelder": "Nein"
     },
     "730008_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V AC/DC DALI CEAG",
-        "tool": "tool5"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC DALI CEAG",
+        "Tool": "tool5",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Ja",
+        "Bewegungsmelder": "Nein"
     },
     "730009_00": {
-        "name": "LED CWL 500 4000LM/D-I/840 230V AC/DC DALI CEAG MS",
-        "tool": "tool5"
+        "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC DALI CEAG MS",
+        "Tool": "tool5",
+        "DC": "Nein",
+        "Notstrom": "Nein",
+        "DALI": "Ja",
+        "Bewegungsmelder": "Ja"
     }
 }
