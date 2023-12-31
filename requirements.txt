@@ -1,4 +1,4 @@
-PyQt5
-datetime
-Pillow
-pyautogui
+PyQt5==5.15.9
+Pillow==9.4.0
+PyAutoGUI==0.9.54
+pyserial==3.5

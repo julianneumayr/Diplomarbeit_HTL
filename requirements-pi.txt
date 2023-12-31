@@ -1,0 +1,4 @@
+-r requirements.txt
+
+RPi.GPIO==0.7.1
+pycups==2.0.1
