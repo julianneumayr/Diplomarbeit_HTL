@@ -31,7 +31,7 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
-        "Ausschaltzeit_Bewegungsmelder": "3",
+        "Ausschaltzeit_Bewegungsmelder": "180",
         "Lichtstrom": "4000",
         "Lichttemperatur": "4000"
     },
@@ -43,7 +43,7 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
-        "Ausschaltzeit_Bewegungsmelder": "3",
+        "Ausschaltzeit_Bewegungsmelder": "180",
         "Lichtstrom": "4000",
         "Lichttemperatur": "4000"
     },
@@ -79,7 +79,7 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
-        "Ausschaltzeit_Bewegungsmelder": "3",
+        "Ausschaltzeit_Bewegungsmelder": "180",
         "Lichtstrom": "4000",
         "Lichttemperatur": "4000"
     },
@@ -91,7 +91,7 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
-        "Ausschaltzeit_Bewegungsmelder": "3",
+        "Ausschaltzeit_Bewegungsmelder": "180",
         "Lichtstrom": "4000",
         "Lichttemperatur": "4000"
     },
@@ -127,7 +127,7 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
-        "Ausschaltzeit_Bewegungsmelder": "3",
+        "Ausschaltzeit_Bewegungsmelder": "180",
         "Lichtstrom": "4000",
         "Lichttemperatur": "4000"
     },
@@ -151,7 +151,7 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
-    	"Ausschaltzeit_Bewegungsmelder": "3",
+    	"Ausschaltzeit_Bewegungsmelder": "180",
         "Lichtstrom": "4000",
         "Lichttemperatur": "4000"
     },
@@ -163,7 +163,7 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
-        "Ausschaltzeit_Bewegungsmelder": "3",
+        "Ausschaltzeit_Bewegungsmelder": "180",
         "Lichtstrom": "4000",
         "Lichttemperatur": "4000"
     },
@@ -187,7 +187,7 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
-        "Ausschaltzeit_Bewegungsmelder": "3",
+        "Ausschaltzeit_Bewegungsmelder": "180",
         "Lichtstrom": "4000",
         "Lichttemperatur": "4000"
     },
@@ -211,7 +211,7 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
-        "Ausschaltzeit_Bewegungsmelder": "3",
+        "Ausschaltzeit_Bewegungsmelder": "180",
         "Lichtstrom": "4000",
         "Lichttemperatur": "4000"
     },
@@ -223,7 +223,7 @@
         "DALI": "Ja",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
-        "Ausschaltzeit_Bewegungsmelder": "3",
+        "Ausschaltzeit_Bewegungsmelder": "180",
         "Lichtstrom": "4000",
         "Lichttemperatur": "4000"
     },
@@ -259,7 +259,7 @@
         "DALI": "Nein",
         "Geschalten extern": "Ja",
         "Bewegungsmelder": "Ja",
-        "Ausschaltzeit_Bewegungsmelder": "3",
+        "Ausschaltzeit_Bewegungsmelder": "180",
         "Lichtstrom": "4000",
         "Lichttemperatur": "4000"
     },
@@ -283,7 +283,7 @@
         "DALI": "Nein",
         "Geschalten extern": "Ja",
         "Bewegungsmelder": "Ja",
-        "Ausschaltzeit_Bewegungsmelder": "3",
+        "Ausschaltzeit_Bewegungsmelder": "180",
         "Lichtstrom": "4000",
         "Lichttemperatur": "4000"
     },
@@ -307,7 +307,7 @@
         "DALI": "Ja",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
-        "Ausschaltzeit_Bewegungsmelder": "3",
+        "Ausschaltzeit_Bewegungsmelder": "180",
         "Lichtstrom": "4000",
         "Lichttemperatur": "4000"
     },
@@ -355,7 +355,7 @@
         "DALI": "Ja",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
-        "Ausschaltzeit_Bewegungsmelder": "3",
+        "Ausschaltzeit_Bewegungsmelder": "180",
         "Lichtstrom": "4000",
         "Lichttemperatur": "4000"
     }
