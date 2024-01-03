@@ -307,7 +307,7 @@
         "DALI": "Ja",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
-        "Ausschaltzeit_Bewegungsmelder": "180",
+        "Ausschaltzeit_Bewegungsmelder": "5",
         "Lichtstrom": "4000",
         "Lichttemperatur": "4000"
     },
