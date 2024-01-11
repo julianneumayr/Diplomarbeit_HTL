@@ -8,8 +8,7 @@
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Nein",
         "Ausschaltzeit_Bewegungsmelder": "keine",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730012_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V EMY",
@@ -20,8 +19,7 @@
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Nein",
         "Ausschaltzeit_Bewegungsmelder": "keine",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730013_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V EMY MS",
@@ -31,9 +29,9 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
+        "Tageslicht_Wartezeit": 10,
         "Ausschaltzeit_Bewegungsmelder": "180",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730014_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V MS",
@@ -43,9 +41,9 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
+        "Tageslicht_Wartezeit": 10,
         "Ausschaltzeit_Bewegungsmelder": "180",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730015_00": {
         "Name": "LED CWL 500x500 4000LM/D-I/840 230V",
@@ -56,8 +54,7 @@
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Nein",
         "Ausschaltzeit_Bewegungsmelder": "keine",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730019_00": {
         "Name": "LED CWL 500x500 4000LM/D-I/840 230V EMY",
@@ -68,8 +65,7 @@
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Nein",
         "Ausschaltzeit_Bewegungsmelder": "keine",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730021_00": {
         "Name": "LED CWL 500x500 4000LM/D-I/840 230V EMY MS",
@@ -79,9 +75,9 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
+        "Tageslicht_Wartezeit": 10,
         "Ausschaltzeit_Bewegungsmelder": "180",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730029_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC-L GAZ MS",
@@ -91,9 +87,9 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
+        "Tageslicht_Wartezeit": 10,
         "Ausschaltzeit_Bewegungsmelder": "180",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730003_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC",
@@ -104,8 +100,7 @@
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Nein",
         "Ausschaltzeit_Bewegungsmelder": "keine",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730005_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC CEAG",
@@ -116,8 +111,7 @@
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Nein",
         "Ausschaltzeit_Bewegungsmelder": "keine",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730010_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC MS",
@@ -127,9 +121,9 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
+        "Tageslicht_Wartezeit": 10,
         "Ausschaltzeit_Bewegungsmelder": "180",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730011_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC DALI",
@@ -140,8 +134,7 @@
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Nein",
         "Ausschaltzeit_Bewegungsmelder": "keine",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730020_00": {
         "Name": "LED CWL 500x500 4000LM/D-I/840 230V EMY GAZ MS",
@@ -151,9 +144,9 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
+        "Tageslicht_Wartezeit": 10,
     	"Ausschaltzeit_Bewegungsmelder": "180",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730023_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC CEAG MS",
@@ -163,9 +156,9 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
+        "Tageslicht_Wartezeit": 10,
         "Ausschaltzeit_Bewegungsmelder": "180",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730024_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC INOTEC FMD",
@@ -176,8 +169,7 @@
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Nein",
         "Ausschaltzeit_Bewegungsmelder": "keine",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730025_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC INOTEC FMD MS",
@@ -187,9 +179,9 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
+        "Tageslicht_Wartezeit": 10,
         "Ausschaltzeit_Bewegungsmelder": "180",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730026_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC INOTEC JSV",
@@ -200,8 +192,7 @@
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Nein",
         "Ausschaltzeit_Bewegungsmelder": "keine",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730027_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC INOTEC JSV MS",
@@ -211,9 +202,9 @@
         "DALI": "Nein",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
+        "Tageslicht_Wartezeit": 10,
         "Ausschaltzeit_Bewegungsmelder": "180",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730045_00": {
         "Name": "LED Comfort 500 4000LM/D-I/840 230V EMY Gessler ESM02 MS",
@@ -223,9 +214,9 @@
         "DALI": "Ja",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
+        "Tageslicht_Wartezeit": 10,
         "Ausschaltzeit_Bewegungsmelder": "180",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730028_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC-L GAZ",
@@ -236,8 +227,7 @@
         "Geschalten extern": "Ja",
         "Bewegungsmelder": "Nein",
         "Ausschaltzeit_Bewegungsmelder": "keine",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730030_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC-S GAZ",
@@ -248,8 +238,7 @@
         "Geschalten extern": "Ja",
         "Bewegungsmelder": "Nein",
         "Ausschaltzeit_Bewegungsmelder": "keine",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730031_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC-S GAZ MS",
@@ -259,9 +248,9 @@
         "DALI": "Nein",
         "Geschalten extern": "Ja",
         "Bewegungsmelder": "Ja",
+        "Tageslicht_Wartezeit": 10,
         "Ausschaltzeit_Bewegungsmelder": "180",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730032_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V EMY CEAG",
@@ -272,8 +261,7 @@
         "Geschalten extern": "Ja",
         "Bewegungsmelder": "Nein",
         "Ausschaltzeit_Bewegungsmelder": "keine",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730033_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V EMY CEAG MS",
@@ -283,9 +271,9 @@
         "DALI": "Nein",
         "Geschalten extern": "Ja",
         "Bewegungsmelder": "Ja",
+        "Tageslicht_Wartezeit": 10,
         "Ausschaltzeit_Bewegungsmelder": "180",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730034_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V EMY GAZ",
@@ -296,8 +284,7 @@
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Nein",
         "Ausschaltzeit_Bewegungsmelder": "keine",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730035_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V EMY GAZ MS",
@@ -307,9 +294,9 @@
         "DALI": "Ja",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
-        "Ausschaltzeit_Bewegungsmelder": "5",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Tageslicht_Wartezeit": 10,
+        "Ausschaltzeit_Bewegungsmelder": "30",
+        "Wartezeit_Initialisierung": 15
     },
     "730038_00": {
         "Name": "LED CWL 500x500 4000LM/D-I/840 230V EMY GAZ",
@@ -320,8 +307,7 @@
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Nein",
         "Ausschaltzeit_Bewegungsmelder": "keine",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730048_00": {
         "Name": "LED Comfort 500 4000LM/D-I/840 230V EMY Gessler ESM02",
@@ -332,8 +318,7 @@
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Nein",
         "Ausschaltzeit_Bewegungsmelder": "keine",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730008_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC DALI CEAG",
@@ -344,8 +329,7 @@
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Nein",
         "Ausschaltzeit_Bewegungsmelder": "keine",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     },
     "730009_00": {
         "Name": "LED CWL 500 4000LM/D-I/840 230V AC/DC DALI CEAG MS",
@@ -355,8 +339,8 @@
         "DALI": "Ja",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
+        "Tageslicht_Wartezeit": 10,
         "Ausschaltzeit_Bewegungsmelder": "180",
-        "Lichtstrom": "4000",
-        "Lichttemperatur": "4000"
+        "Wartezeit_Initialisierung": 15
     }
 }
