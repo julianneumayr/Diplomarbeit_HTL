@@ -298,18 +298,6 @@
         "Ausschaltzeit_Bewegungsmelder": "30",
         "Wartezeit_Initialisierung": 15
     },
-    "730035_01": {
-        "Name": "LED CWL 500 4000LM/D-I/840 230V EMY GAZ MS",
-        "Tool": "tool4",
-        "DC": "Nein",
-        "Notstrom": "Nein",
-        "DALI": "Ja",
-        "Geschalten extern": "Nein",
-        "Bewegungsmelder": "Ja",
-        "Tageslicht_Wartezeit": 10,
-        "Ausschaltzeit_Bewegungsmelder": "30",
-        "Wartezeit_Initialisierung": 15
-    },
     "730038_00": {
         "Name": "LED CWL 500x500 4000LM/D-I/840 230V EMY GAZ",
         "Tool": "tool4",
