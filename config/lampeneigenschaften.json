@@ -295,7 +295,7 @@
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
         "Tageslicht_Wartezeit": 10,
-        "Ausschaltzeit_Bewegungsmelder": "30",
+        "Ausschaltzeit_Bewegungsmelder": 30,
         "Wartezeit_Initialisierung": 15
     },
     "730038_00": {
