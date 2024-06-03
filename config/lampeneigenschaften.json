@@ -291,7 +291,7 @@
         "Tool": "tool4",
         "DC": "Nein",
         "Notstrom": "Nein",
-        "DALI": "Ja",
+        "DALI": "Neinm",
         "Geschalten extern": "Nein",
         "Bewegungsmelder": "Ja",
         "Tageslicht_Wartezeit": 10,
